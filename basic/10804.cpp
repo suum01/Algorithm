@@ -25,3 +25,5 @@ int main(){
         cout << card[i] << " ";
     }
 }
+
+// O(n)
